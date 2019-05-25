@@ -69,7 +69,7 @@ https://youtu.be/FG8QXaqwBcQ
 
 > 3. Then the recovered files are refined with File Recovery for Windows
 
-![](./images/filerecovery.png)
+![](./RAMExtraction/Images/FileRecovery.png )
 
 ### -Additionaly it is possible to dump the RAM contents into a ".img" file using DD, with that image file we can use it later or store it as evidence.
 
