@@ -32,7 +32,7 @@ Notice: This scraper works only for file systems of 32 bit and will only save a 
 4) Clic OK on the following windows until completed the File to Drive process.
 
 As observed in the following image:
-![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/USB-preparation.PNG)
+![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/USB-preparation.png)
 
 ### - Once finished the USB writing process, take the computer on sleeping mode, insert the USB then shut it down by removing the battery
 
@@ -72,5 +72,3 @@ https://youtu.be/FG8QXaqwBcQ
 ![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/FileRecovery.png)
 
 ### -Additionaly it is possible to dump the RAM contents into a ".img" file using DD, with that image file we can use it later or store it as evidence.
-
-
