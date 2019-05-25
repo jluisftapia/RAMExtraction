@@ -1,5 +1,5 @@
 # RAM Extraction Tool
-This Repository contains the Instructions and tools to create a USB scrapping tool used for dumping the contents from RAM memory module from a computer.
+This Repository contains the Instructions and tools to create a USB scraper tool used for dumping the contents from RAM memory module from a computer.
 
 
 ### - Get a USB with enough capacity to store the memory from the target PC, this can work on a wide variety of DDR2 or DDR3 RAM modules
