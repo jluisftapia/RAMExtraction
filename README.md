@@ -24,7 +24,7 @@ Notice: This scraper works only for file systems of 32 bit and will only save a 
 
 ### - On a windows PC we run the program RMPrepUSB
 
-![](./images/RMPrepUSB.png)
+![](./RAMExtraction/images/RMPrepUSB.png)
 
 1) Make shure first that your USB apears at the top of the window
 2) Select the from Image Tools the option File-> Drive 
