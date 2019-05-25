@@ -24,7 +24,7 @@ Notice: This scraper works only for file systems of 32 bit and will only save a 
 
 ### - On a windows PC we run the program RMPrepUSB
 
-![](./RAMExtraction/images/RMPrepUSB.png)
+![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/RMPrepUSB.png)
 
 1) Make shure first that your USB apears at the top of the window
 2) Select the from Image Tools the option File-> Drive 
@@ -32,17 +32,17 @@ Notice: This scraper works only for file systems of 32 bit and will only save a 
 4) Clic OK on the following windows until completed the File to Drive process.
 
 As observed in the following image:
-![](./images/USB-preparation.PNG)
+![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/USB-preparation.PNG)
 
 ### - Once finished the USB writing process, take the computer on sleeping mode, insert the USB then shut it down by removing the battery
 
 #### Optionally  With the RAM module exposed you can freeze it with the help of a can of compressed air, discharging the content with the can on inverted (Upside Down) position resulting in the spraying of liquid on to the surface. 
 
-![](./images/compresedair.png)
+![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/compresedair.png)
 
 This way you can freze the RAM memory as much as possible:
 
-![](./images/freezemem.png)
+![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/freezemem.png)
 
 Warning: The liquid, when released from the can on this position, boils at a very low temperature, rapidly cooling any surface it touches, this can be harmfull if is directly released against the human body.   
 
@@ -54,7 +54,7 @@ https://www.disk-image.com/faq-bootmenu.htm
 
 ### - Start from the external device and see how it starts dumping the RAM memory... It may take long time depeding on the memory from the target.
 
-![](./images/dumprocess.jpg)
+![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/dumprocess.jpg)
 
 You can find next the link with the video from the experiment performed by us: 
 
@@ -65,7 +65,7 @@ https://youtu.be/FG8QXaqwBcQ
 > 1. Remove the USB right after finishes the dump process this is because the process can start again and this would delete the contents already dumped.
 > 2. To see the contents of the RAM was used first PhotoRec 7.1 Data Recovery Utility for Windows.
 
-![](./images/photorec.png)
+![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/photorec.png)
 
 > 3. Then the recovered files are refined with File Recovery for Windows
 
