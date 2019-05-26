@@ -18,7 +18,7 @@ We should use a USB drive with 2 GB of capacity.
 > a) pre-compiled 32-bit version of the scraper.bin
 Notice: This scraper works only for file systems of 32 bit and will only save a maximum of 4GB of memory, also important to notice use a USB 3.0 drive with a fast write speed is a good idea since slower type can take longer time.
 
-> b) RMPrepUSB_Portable_v2.1.741a.zip. Unzip this file and which contains several tools from those select "RMPREPUSB.exe" this writes to the USB drive on the sector 0 which will make our device the boot drive.
+> b) RMPrepUSB_Portable_v2.1.741a.zip. Unzip this file, its contains several tools from those just select "RMPREPUSB.exe" which will write to the USB drive from the sector "0" which will make our device the boot drive when the PC starts.
 
 ## Building the USB
 
