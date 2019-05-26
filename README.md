@@ -27,9 +27,9 @@ Notice: This scraper works only for file systems of 32 bit and will only save a 
 ![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/RMPrepUSB.png)
 
 1) Make sure first that your USB appears at the top of the window
-2) Select the from Image Tools the option File-> Drive 
+2) Select from ´´Image Tools´´ the option ´´File-> Drive´´ 
 3) Search the scraper.bin file and click Open
-4) Click OK on the following windows until completed the File to Drive process.
+4) Click ´´OK´´ on the following windows until completed the File to Drive process.
 
 As observed in the following image:
 ![](https://github.com/jluisftapia/RAMExtraction/blob/master/Images/USB-preparation.png)
